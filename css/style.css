@@ -1,0 +1,38 @@
+#img-div{
+  width: 50px;
+  height: 50px;
+  margin: 2px 2px 2px 2px;
+  text-align: center;
+
+}
+
+img{
+  width: 500px;
+  height: 500px;
+  size : 50Vw;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: 20px;
+  text-align: center;
+
+}
+h1{
+  text-align: center;
+  padding: 20px 20px 20px 20px;
+  background-color: lightgrey;
+
+
+
+}
+#tribute-info{
+  text-align: center;
+   background-color: lightgrey;
+   height: auto;
+   width: 1325px;
+
+}
+#tribute-info ul {
+  text-decoration: none;
+}
